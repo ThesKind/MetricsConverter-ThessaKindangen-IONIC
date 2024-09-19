@@ -1,1 +1,0 @@
-# MetricsConverter-ThessaKindangen-IONIC
